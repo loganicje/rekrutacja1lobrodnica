@@ -1,0 +1,18 @@
+<html>
+<body>
+<h1><font color="d01d1b"> Propozycja 1</font></h1>
+<img src="biolchem1.png">
+<br>
+<h1><font color="d01d1b"> Propozycja 2</font></h1>
+<img src="matfiz1.png">
+<br>
+<h1><font color="d01d1b"> Propozycja 3</font></h1>
+<img src="matgeo1.png">
+<br>
+<h1><font color="d01d1b"> Propozycja 4</font></h1>
+<img src="geoang1.png">
+<br>
+<h1><font color="d01d1b"> Propozycja 5</font></h1>
+<img src="human1.png">
+</body>
+</html>
